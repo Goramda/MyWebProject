@@ -4,15 +4,13 @@
 
 ### Features
 
--list 1
--list 2
--list 4
+- list 1
+- list 2
+- list 4
 
 ### Example code
 
-```<javascript>
-    alter('ok');
-</javascript>```
+```<javascript> alter('ok'); </javascript>```
 
 ### Credit
 
