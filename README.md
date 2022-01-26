@@ -10,7 +10,9 @@
 
 ### Example code
 
-```<javascript> alter('ok'); </javascript>```
+```<javascript>
+ alter('ok'); 
+ </javascript>```
 
 ### Credit
 
